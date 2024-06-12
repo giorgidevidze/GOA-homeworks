@@ -1,41 +1,41 @@
 sentence = "This is Giorgi's bike"
 
-#text = "Giorgi"
+text = "Giorgi"
 
-#number = 50
+number = 50
 
-# print(number + 10)
+print(number + 10)
 
-#num1 = "20"
-#num2 = "24"
+num1 = "20"
+num2 = "24"
 
-#print(int(num1) + int(num2))
+print(int(num1) + int(num2))
 
-#num1 = 20
-#num2 = 24
+num1 = 20
+num2 = 24
 
-#sum1 = num1 + num2
+sum1 = num1 + num2
 
-#print(sum1)
+print(sum1)
 
-#budget = 200
+budget = 200
 
-#print(budget)
+print(budget)
 
-#hp = 100
+hp = 100
 
-#print(hp)
-#print(hp - 20)
+print(hp)
+print(hp - 20)
 
-#number = 100 - 11
+number = 100 - 11
 
 #print(number)
 
-#num = 10
-#num = 1500
-#num = 2600
+num = 10
+num = 1500
+num = 2600
 
-#print(num)
+print(num)
 
 # reassign - გადაწერა
 
