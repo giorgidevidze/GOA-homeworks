@@ -1,6 +1,6 @@
 from turtle import *
 
-speed(1000)
+speed(0)
 bgcolor("skyblue")
 
 width(6)
