@@ -199,14 +199,11 @@ num(number)
 
 # task 15
 
-def find_maximum(numbers):
-    if not numbers: 
-        return 
-    return max(numbers)
+def mean(listn):
+    return sum(listn) / len(listn)
+    
+print(mean([1, 2, 3, 4, 5]))
 
-test_case = [1, 3, 4, 5, 2]
-max_output = find_maximum(test_case)
-print("მაქსიმალური მნიშვნელობა:", max_output)
 
 
 
