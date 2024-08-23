@@ -1,0 +1,35 @@
+p{
+    text-decoration: solid underline black ;
+}
+
+.p1{
+    text-decoration: dotted underline black;
+}
+
+.p2{
+    text-decoration: dashed underline black;
+}
+
+.p3{
+    text-decoration: none underline black;
+}
+
+#p4{
+    text-decoration: overline underline black;
+}
+
+#p5{
+    text-decoration: double underline black;
+}
+
+#p6{
+    text-decoration: line-through;
+}
+
+#p7{
+    text-decoration: wavy underline black;
+}
+
+.p8{
+    text-decoration: underline;
+}
