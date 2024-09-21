@@ -1,0 +1,37 @@
+#item1 {
+    background-color: #0000FF;
+    height: 100px;
+    width: 300px;
+  }
+  
+#item2 {
+    position: absolute;
+    left: 50px;
+    top: 40px;
+    background-color: #FF0000;
+    height: 100px;
+    width: 300px;
+  }
+
+h1{
+    width: 50%;
+    background-color: aqua;
+    padding: 10px 0;
+    text-align: center;
+    position: fixed;
+}
+
+h2{
+    border: solid;
+    width: 150px;
+    height: 80px;
+    left: 40px;
+    top: 60px;
+    position: relative;
+    bottom: 0px;
+}
+
+body{
+    background-image: url(../img/mercedes-amg-gt-c192-stage-3840x3840-07-2023.avif);
+    background-repeat: repeat-y;
+}
