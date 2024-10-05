@@ -1,0 +1,28 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    transition: 0.5s;
+}
+
+.h1:hover{
+    transform: translate(50px);
+    transform: scale(1.5);
+}
+
+
+.h2:hover{
+    transform: translate(50px);
+    transform: scale(1.5);
+}
+
+.h2:active{
+    transform: scale(1.2);
+}
