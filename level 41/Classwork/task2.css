@@ -1,0 +1,33 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation: transformAndColor 2s infinite;
+    animation-iteration-count: 3;
+}
+
+@keyframes transformAndColor {
+    0% {
+        background-color: red;
+        transform: scale(1) rotate(0deg);
+        border-radius: 0;
+    }
+    50% {
+        background-color: blue;
+        transform: scale(2) rotate(90deg);
+        border-radius: 50%;
+    }
+    100% {
+        background-color: red;
+        transform: scale(1) rotate(0deg);
+        border-radius: 0;
+    }
+}
+

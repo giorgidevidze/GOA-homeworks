@@ -1,0 +1,36 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    animation: Animation 4s infinite;
+}
+
+@keyframes Animation{
+    0% {
+        background-color: red;
+        transform: scale(1);
+    }
+    25% {
+        background-color: orange;
+        transform: scale(1.5);
+    }
+    50% {
+        background-color: yellow;
+        transform: scale(2);
+    }
+    75% {
+        background-color: green;
+        transform: scale(1.5);
+    }
+    100% {
+        background-color: blue;
+        transform: scale(1);
+    }
+}
