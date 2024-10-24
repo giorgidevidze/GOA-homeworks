@@ -1,0 +1,162 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: hsl(30, 54%, 90%);
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    border-radius: 3%;
+    background-color: white;
+    width: 33%;
+    height: 77%;
+}
+
+img{
+    border-radius: 2%;
+    background-size: cover;
+    height: 15%;
+    width: 85%;
+    margin: 35px;
+    margin-top: 10px;
+}
+
+h1{
+    margin-left: 35px;
+    margin-top: -35px;
+}
+
+.p1{
+    color: hsl(30, 10%, 34%);
+    margin-left: 35px;
+}
+
+.div2{
+    margin-left: 35px;
+    width: 350px;
+    height: 100px;
+    background-color: hsl(330, 100%, 98%);
+}
+
+h3{
+    color: hsl(332, 51%, 32%);
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+.ul1{
+    color: hsl(30, 10%, 34%);
+    margin: 10px;
+    margin-left: 35px;
+}
+
+.h1{
+    color: hsl(14, 45%, 36%);
+    margin-left: 35px;
+    margin-top: 10px;
+}
+
+.ul2{
+    color: hsl(30, 10%, 34%);
+    list-style: square;
+    margin-left: 43px;
+    width: 600px;
+    margin-top: 10px;
+}
+
+.p2{
+    margin: 20px;
+    border-bottom: 1px solid hsl(30, 10%, 34%);
+}
+
+.h2{
+    color: hsl(14, 45%, 36%);
+    margin-left: 35px;
+}
+
+.ul3{
+    color: hsl(30, 10%, 34%);
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.p3{
+    margin: 20px;
+    border-bottom: 1px solid hsl(30, 10%, 34%)
+}
+
+.h3{
+    color: hsl(14, 45%, 36%);
+    margin-left: 35px;
+}
+
+.p4{
+    margin-left: 35px;
+    margin-top: 15px;
+    color: hsl(30, 10%, 34%);
+}
+
+.p5{
+    margin-left: 35px;
+    color: hsl(30, 10%, 34%);
+}
+
+.p6{
+    color: hsl(14, 45%, 36%);
+    margin-left: 250px;
+    margin-top: -15px;
+}
+
+.p7{
+    margin: 20px;
+    border-bottom: 1px solid hsl(30, 10%, 34%)
+}
+
+.p8{
+    margin-left: 35px;
+    color: hsl(30, 10%, 34%);
+}
+
+.p9{
+    color: hsl(14, 45%, 36%);
+    margin-left: 250px;
+    margin-top: -15px;
+}
+
+.p10{
+    margin: 20px;
+    border-bottom: 1px solid hsl(30, 10%, 34%)
+}
+
+.p11{
+    margin-left: 35px;
+    color: hsl(30, 10%, 34%);
+}
+
+.p12{
+    color: hsl(14, 45%, 36%);
+    margin-left: 250px;
+    margin-top: -15px;
+}
+
+.p13{
+    margin: 20px;
+    border-bottom: 1px solid hsl(30, 10%, 34%)
+}
+
+.p14{
+    margin-left: 35px;
+    color: hsl(30, 10%, 34%);
+}
+
+.p15{
+    color: hsl(14, 45%, 36%);
+    margin-left: 250px;
+    margin-top: -15px;
+}

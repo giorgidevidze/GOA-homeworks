@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(233, 47%, 7%);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div{
+    background-color: hsl(244, 38%, 16%);
+    width: 800px;
+    height: 400px;
+    border-radius: 3%;
+}
+
+h1{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin: 50px;
+    width: 350px;
+}
+
+p{
+    color: hsla(0, 0%, 100%, 0.6);
+    width: 350px;
+    margin-left: 50px;
+}
+
+.companies{
+    margin-top: 70px;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.comp{
+    margin-top: -40px;
+    color: hsla(0, 0%, 100%, 0.6);
+}
+
+.templates{
+    margin-left: 180px;
+    margin-top: -65px;
+}
+
+.temp{
+    margin-left: 180px;
+    margin-top: -40px;
+}
+
+.queries{
+    margin-left: 300px;
+    margin-top: -65px;
+}
+
+.quer{
+    margin-left: 300px;
+    margin-top: -40px;
+}
+
+.imgs{
+    width: 400px;
+    height: 400px;
+    background-image: url("../img/image-header-desktop.jpg");
+    width: -100%;
+    background-size: cover;
+    margin-left: 400px;
+    margin-top: -368px;
+}
