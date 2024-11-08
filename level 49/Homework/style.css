@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div1{
+    margin-top: -400px;
+    width: 500px;
+    height: 250px;
+    background-color:  hsl(256, 67%, 59%);
+    border-radius: 10px;
+}
+
+.h1{
+    color: white;
+    width: 300px;
+    margin-left: 25%;
+    margin-top: 30px;
+}
+
+.img1{
+    width: 30%;
+    margin-left: 30%;
+    margin-top: 50px;
+}
+
+.p1{
+    color: hsl(0, 0%, 100%);
+    margin-left: 29%;
+}
+
+.div2{
+    margin-left: -500px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    height: 200px;
+}
+
+.img2{
+    width: 75%;
+    margin: 25px;
+}
+
+.h2{
+    width: 110px;
+    margin-left: 40px;
+}
+
+.div3{
+    margin-left: 100px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: hsl(39, 100%, 71%);
+    width: 200px;
+    height: 200px;
+}
+
+.h3{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+.img3{
+    width: 75%;
+    margin-left: 20px;
+}
+
+.div4{
+    margin-left: 50px;
+    border-radius: 10px;
+    background-color: hsl(254, 88%, 90%);
+    width: 200px;
+    height: 500px;
+    margin-top: -150px;
+}
+
+.h4{
+    margin: 30px;
+}
+
+.img4{
+    width: 90%;
+    margin-left: 10%;
+    height: 250px;
+}
+
+.p2{
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+
+.div5{
+    margin-left: -500px;
+    margin-top: 670px;
+    width: 500px;
+    height: 250px;
+    background-color:  hsl(256, 67%, 59%);
+    border-radius: 10px;
+}
+
+.img5{
+    width: 50%;
+    margin: 20px;
+}
+
+.h5{
+    color: white;
+    text-align: center;
+    width: 270px;
+    margin-left: 250px;
+    margin-top: -200px;
+}
+
+.div6{
+    margin-left: -750px;
+    margin-top: 680px;
+    border-radius: 10px;
+    background-color: hsl(0, 0%, 100%);
+    width: 200px;
+    height: 250px;
+}
+
+.h6{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.p3{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.img6{
+    margin-top: 50px;
+    width: 100%;
+}
+
+.div7{
+    margin-left: -450px;
+    margin-top: -330px;
+    border-radius: 10px;
+    background-color: hsl(31, 66%, 93%);
+    width: 200px;
+    height: 320px;
+}
+
+.h7{
+    width: 200px;
+    text-align: center;
+}
+
+.img7{
+    width: 100%;
+    margin-top: 30px;
+}
+
+.div8{
+    margin-left: -200px;
+    margin-top: 470px;
+    border-radius: 10px;
+    background-color: hsl(39, 100%, 71%);
+    width: 200px;
+    height: 450px;
+}
+
+.h8{
+    width: 180px;
+    margin: 30px;
+}
+
+.img8{
+    width: 100%;
+    margin: 10px;
+}

@@ -1,0 +1,75 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    background-image: url("../Classwork/img/bg-pattern-top-mobile.svg"), url("../Classwork/img/bg-pattern-bottom-desktop.svg");
+    background-position: left top, right bottom;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 75%;
+    height: 75vh;
+    align-items: center;
+}
+
+.upper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.upper-left{
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+h1{
+    color: hsl(300, 43%, 22%);
+    font-size: 66px;
+}
+
+.upper-left-text{
+    color: hsl(303, 10%, 53%);
+    font-size: 19px;
+    line-height: 25px;
+}
+
+.upper-right{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.divi{
+    display: flex;
+    padding-left: 35px;
+    gap: 40px;
+    align-items: center;
+    background-color: hsl(300, 24%, 96%);
+    width: 420px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.divp{
+    color: hsl(300, 43%, 22%);
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.div2{
+    margin-left: 50px;
+}
+
+.div3{
+    margin-left: 50px;
+}
